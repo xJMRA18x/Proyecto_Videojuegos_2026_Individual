@@ -1,3 +1,13 @@
-# Proyecto_Videojuegos_2026_Individual
-Videojuego inspirado en "Dark Echo" en proceso.
-By: Jose Ramos
+# Eco Game
+
+Juego desarrollado con Pygame basado en ecolocalización.
+
+## Controles
+
+- WASD -> Movimiento
+- SPACE -> Emitir eco
+
+## Instalación
+
+```bash
+pip install -r requirements.txt
